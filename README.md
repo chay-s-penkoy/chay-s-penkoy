@@ -1,9 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sophia
+
+![icegif-84](https://github.com/chay-s-penkoy/chay-s-penkoy/assets/129063012/3feb40fb-ab0c-41da-b005-f7b21afd4453)
+
+
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sophia
 ==============================================================================================================================
 
 ML-Engineer
 -----------
-Here is the github of a 4th year student at the Faculty of Mechanics and Mathematics of Moscow State University :) 
+:books: Here is the github of a 4th year student at the Faculty of Mechanics and Mathematics of Moscow State University :) 
 
 I started learning to code 3 years ago. My first language: C, then C++ and Python. I love the last one much more. Then I became interested in neural networks, and I began to master machine learning. What I like most - is working with images!
 
