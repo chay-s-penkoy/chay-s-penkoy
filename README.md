@@ -8,6 +8,7 @@ I started learning to code 3 years ago. My first language: C, then C++ and Pytho
 
 * 🌍  I'm based in Moscow
 
+
 ### Skills
 
 
@@ -19,4 +20,6 @@ I started learning to code 3 years ago. My first language: C, then C++ and Pytho
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/chay-s-penkoy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+*sofi.121@mail.ru*
 
