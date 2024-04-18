@@ -3,10 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ML-Engineer
 -----------
+Here is the github of a 4th year student at the Faculty of Mechanics and Mathematics of Moscow State University :) 
 
-I started learning to code 3 years ago. My first language: C, then C++ and Python. I love the last one much more. Then I became interested in neural networks, and I began to master machine learning. What I like most is working with images.
-
-* 🌍  I'm based in Moscow
+I started learning to code 3 years ago. My first language: C, then C++ and Python. I love the last one much more. Then I became interested in neural networks, and I began to master machine learning. What I like most - is working with images!
 
 
 ### Skills
